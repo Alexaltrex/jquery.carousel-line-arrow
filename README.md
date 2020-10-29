@@ -1,5 +1,5 @@
 # jquery.carousel-line-arrow
-Ссылка: https://alexaltrex.github.io/jquery.carousel-line-arrow
+Ссылка: https://alexaltrex.github.io/jquery.carousel-line-arrow 
 
 ## Описание
 Плагин jQuery - слайдер изображений.
