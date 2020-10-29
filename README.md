@@ -4,8 +4,8 @@
 ## Описание
 Плагин jQuery - слайдер изображений.
 
-<img src="assets/gh01.jpg" width="600">
-<img src="assets/gh02.jpg" width="600">
+<img src="assets/gh01.jpg" width="300">
+<img src="assets/gh02.jpg" width="300">
 
 ## Запуск проекта:
 1. Клонирование и запуск: git clone https://github.com/Alexaltrex/jquery.carousel-line-arrow.git;
